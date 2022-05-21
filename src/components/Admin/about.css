@@ -1,0 +1,4 @@
+.aboutPet {
+  overflow-y: scroll;
+  max-height: 95vh;
+}

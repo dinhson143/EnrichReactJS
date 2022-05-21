@@ -1,0 +1,22 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #f2e7e1 !important;
+}
+.css-2s90m6-MuiAvatar-root,
+.css-1pz7awu-MuiButtonBase-root-MuiIconButton-root,
+.css-1q39md6-MuiButtonBase-root-MuiButton-root {
+  color: #000 !important;
+}
+.css-1q39md6-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #ffcc80 !important;
+}
+.MuiTypography-root {
+  cursor: pointer;
+}
+.home {
+  text-decoration: none;
+  color: #000;
+}
+.home:hover {
+  color: chocolate;
+  font-weight: 900;
+}

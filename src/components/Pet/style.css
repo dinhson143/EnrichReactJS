@@ -1,0 +1,15 @@
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+  background-color: #567067 !important;
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root {
+  color: #8f070d !important;
+}
+.css-o69gx8-MuiCardMedia-root {
+  height: 100%;
+}
+.btnOrder:hover {
+  width: max-content;
+  background-color: bisque;
+  border-radius: 3px;
+  cursor: pointer;
+}
